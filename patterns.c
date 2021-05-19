@@ -32,5 +32,5 @@ int main(void)
 	}
 	}
 	else
-		printf("Enter 1 or 2\n"); 
+		printf("Enter 1 or 2\n");
 }
